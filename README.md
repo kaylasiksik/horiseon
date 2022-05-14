@@ -1,2 +1,0 @@
-# horiseon
-Challenge 1 
